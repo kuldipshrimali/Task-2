@@ -1,0 +1,37 @@
+*{
+    margin: 20;
+    padding: 30;
+}
+p{color :aqua;}
+body{ background-color: rgb(196, 79, 192);}
+h3{color: green;}
+border{color: brown;}
+
+
+.main{
+    width: 100;
+    margin-top: auto;
+    font-family: arial;
+    font-weight: 100;
+}
+
+.border{
+    margin: 200;
+}
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+}
+
+.table{
+    color: orange;
+    font-size: xx-large;
+}
+
+.footer{
+    color: burlywood;
+}
